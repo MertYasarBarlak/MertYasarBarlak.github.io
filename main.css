@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#main {
+    margin-top: 25px;
+}
+.btn-danger {
+    margin-top: 20px;
+}
+h5 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+hr {
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+    
